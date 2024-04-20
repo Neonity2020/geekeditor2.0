@@ -1,7 +1,7 @@
 ---
 created: 1706838531828
-updated: 1713319667621
-version: 9
+updated: 1713613846837
+version: 10
 ---
 
 - <span id="2024-02-13-05-00-46-g147">AIGC</span>
@@ -9,5 +9,4 @@ version: 9
 - <span id="2024-02-13-05-01-53-f4x1">Projects</span>
   - [Memos](docs/2024-02-13-05-02-38-hzz9.md)
   - [缩略词为中心](docs/2024-04-05-08-34-36-d1eh.md)
-  - [111](docs/2024-04-17-10-07-06-bjnm.md)
   - [1111](docs/2024-04-17-10-07-45-lm6m.md)
