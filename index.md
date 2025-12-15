@@ -1,7 +1,7 @@
 ---
 created: 1706838531828
-updated: 1752562509995
-version: 15
+updated: 1765835991387
+version: 16
 ---
 
 - <span id="2024-02-13-05-00-46-g147">AIGC</span>
@@ -13,3 +13,4 @@ version: 15
     - [Fumadocs](docs/2025-06-09-13-57-43-klad.md)
     - [Fumadocs-setup](docs/2025-06-10-18-22-35-zssa.md)
   - [talk](docs/2025-07-15-14-55-08-fshv.md)
+  - [how-to-do-great-work](docs/2025-12-16-05-59-48-83vn.md)
